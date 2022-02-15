@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6c55b7dd-f774-4ba4-ed0b-11d5bccf1779
 ---
@@ -111,7 +114,7 @@ Finite Element Methods for Elliptic Problems; Variational Formulation: The Poiss
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Discretization of the Poisson Problem in IR1: Formulation ([PDF]({{< baseurl >}}/resources/lec15))
+Discretization of the Poisson Problem in IR{{< sup "1" >}}: Formulation ([PDF]({{< baseurl >}}/resources/lec15))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF - 1.5 MB]({{< baseurl >}}/resources/lec15_notes))
@@ -120,7 +123,7 @@ Discretization of the Poisson Problem in IR1: Formulation ([PDF]({{< baseurl >}}
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Discretization of the Poisson Problem in IR1: Theory and Implementation ([PDF - 1.9 MB]({{< baseurl >}}/resources/lecs16_17))
+Discretization of the Poisson Problem in IR{{< sup "1" >}}: Theory and Implementation ([PDF - 1.9 MB]({{< baseurl >}}/resources/lecs16_17))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF - 2.5 MB]({{< baseurl >}}/resources/lecs16_17_notes))
@@ -129,7 +132,7 @@ Discretization of the Poisson Problem in IR1: Theory and Implementation ([PDF - 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-FEM for the Poisson Problem in IR2 ([PDF]({{< baseurl >}}/resources/lecs18_19))
+FEM for the Poisson Problem in IR{{< sup "2" >}} ([PDF]({{< baseurl >}}/resources/lecs18_19))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF - 1.6 MB]({{< baseurl >}}/resources/lecs18_19_notes))
