@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8fe941e3-c32d-8c32-0bca-d05764e66fa8
 ---
@@ -22,7 +24,7 @@ A presentation of the fundamentals of modern numerical techniques for a wide ran
 Prerequisites
 -------------
 
-MIT: 18.03 or 18.06 or equivalent; and familiarity with MATLAB®.
+MIT: 18.03 or 18.06 or equivalent; and familiarity with MATLAB{{< sup "®" >}}.
 
 Instructors
 -----------
