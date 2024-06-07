@@ -3,6 +3,7 @@ content_type: resource
 description: '[Zipped archive of MATLAB functions supporting Problem Set 1: Finite
   Differences and Iterative Methods]'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/5bb09d541817cd620defdb19ae213443_ps1code.zip
+file_size: 3866
 file_type: application/zip
 learning_resource_types:
 - Assignments
