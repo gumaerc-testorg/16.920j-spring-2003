@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Solutions: Problem Set 1 - Finite Differences and Iterative Methods'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/7420def42c6003e855e31acb1b26d082_ps1sol.pdf
+file_size: 1171851
 file_type: application/pdf
 learning_resource_types:
 - Assignments

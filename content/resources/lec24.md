@@ -3,6 +3,7 @@ content_type: resource
 description: 'Integral Equation Methods, Lecture 4: Formulating Boundary Integral
   Equations'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/884716526199fb9b5373cefc8a233997_lec24.pdf
+file_size: 278506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
