@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 3 ? Variational Methods
-file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/d9b0ba7242994671fdec1a3a152ab3a2_ps3.pdf
+file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/d9b0ba7242994671fdec1a3a152ab3a2_ps3.pdf
 file_size: 655726
 file_type: application/pdf
 learning_resource_types:
