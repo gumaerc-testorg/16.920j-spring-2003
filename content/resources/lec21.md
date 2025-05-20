@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Integral Equation Methods, Lecture 2: Numerical Quadrature'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/a641ec01d85919b3f123e69df7f0fd69_lec21.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/a641ec01d85919b3f123e69df7f0fd69_lec21.pdf
 file_size: 814627
 file_type: application/pdf
 learning_resource_types:
