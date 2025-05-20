@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Finite Difference Discretization of Elliptic Equations: 1D Problem'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/699a968b859206e857a06ace8e13329d_lecs2and3_notes.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/699a968b859206e857a06ace8e13329d_lecs2and3_notes.pdf
 file_size: 1729010
 file_type: application/pdf
 learning_resource_types:

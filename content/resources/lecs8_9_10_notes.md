@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Finite Difference Discretization of Hyperbolic Equations: Linear Problems'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/a1b0398626222c735a8bac5b261c43ad_lecs8_9_10_notes.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/a1b0398626222c735a8bac5b261c43ad_lecs8_9_10_notes.pdf
 file_size: 2533063
 file_type: application/pdf
 learning_resource_types:

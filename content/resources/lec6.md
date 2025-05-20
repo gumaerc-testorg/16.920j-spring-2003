@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Solution Methods: Iterative Techniques'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/d504d7f1f3010fba86e134b3b900d0f6_lec6.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/d504d7f1f3010fba86e134b3b900d0f6_lec6.pdf
 file_size: 670496
 file_type: application/pdf
 learning_resource_types:
