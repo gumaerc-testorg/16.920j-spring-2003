@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[MATLAB file supporting Problem Set 3: Variational Methods]'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/de734c5631aa5d1fe4189a75c2883062_ps3_grids.mat
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/de734c5631aa5d1fe4189a75c2883062_ps3_grids.mat
 file_size: 666320
 file_type: application/octet-stream
 learning_resource_types:

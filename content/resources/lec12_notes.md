@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Numerical Schemes for Scalar One-Dimensional Conservation Laws
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/bafff8bb84c0ee8ac362cea89c5fea38_lec12_notes.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/bafff8bb84c0ee8ac362cea89c5fea38_lec12_notes.pdf
 file_size: 1462706
 file_type: application/pdf
 learning_resource_types:

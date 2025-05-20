@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2 - Hyperbolic Equations
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/ff286dc616f4091415418a934e3626cf_ps2.pdf
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/ff286dc616f4091415418a934e3626cf_ps2.pdf
 file_size: 462773
 file_type: application/pdf
 learning_resource_types:

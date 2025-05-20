@@ -2,7 +2,7 @@
 content_type: resource
 description: '[Zipped archive of MATLAB functions and data supporting Problem Set
   4: Integral Equation Methods]'
-file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/30b0d4941fdcbbf0b7aa6c51476d948e_ps4files.zip
+file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/30b0d4941fdcbbf0b7aa6c51476d948e_ps4files.zip
 file_size: 10128
 file_type: application/zip
 learning_resource_types:
