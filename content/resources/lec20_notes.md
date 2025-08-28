@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Integral Equation Methods, Lecture 1: Discretization of Boundary Integral
   Equations'
-file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/902283b7f9a1816017d8121272d8ff96_lec20_notes.pdf
+file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/902283b7f9a1816017d8121272d8ff96_lec20_notes.pdf
 file_size: 601645
 file_type: application/pdf
 learning_resource_types:

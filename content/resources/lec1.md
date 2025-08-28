@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Numerical Methods for Partial Differential Equations
-file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/1db1ffe33bea72c3a9a6f0d6ce487a92_lec1.pdf
+file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/1db1ffe33bea72c3a9a6f0d6ce487a92_lec1.pdf
 file_size: 609200
 file_type: application/pdf
 learning_resource_types:
