@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Integral Equation Methods, Lecture 3: Discretization Convergence Theory'
-file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/f7314d3bbe2410c1f804b765156ef083_lec22.pdf
+file: /ol-ocw-studio-app/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/f7314d3bbe2410c1f804b765156ef083_lec22.pdf
 file_size: 858893
 file_type: application/pdf
 learning_resource_types:
